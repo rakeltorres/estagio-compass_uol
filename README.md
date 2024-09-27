@@ -1,7 +1,10 @@
 # Resumos do estágio em Blockchain na Compass UOL
+
+## Objetivo
 Esse repositório tem o objetivo de armazenar todos os resumos da trilha de aprendizado Crypto Submersion - 2024/2 feitos por mim durante o estágio em blockchain da Compass UOL com a AWS e servir como um lugar para revisão dos assuntos abordados.
 
-Sumário da trilha Crypto Submersion - 2024/2:
+
+## Sumário da trilha Crypto Submersion - 2024/2:
 
 <details>
   <summary>1. Basics for Teamwork and Agile Development</summary>
