@@ -1,8 +1,9 @@
-## Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
+# Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
 
 O manifesto ágil surgiu com a insatisfação dos profissionais de desenvolvimento de software com modelo cascata (Utilizado pricipalmente nas engenharias para o gerenciamento de um projeto).
 
 Ele é composto por:
+
 - 4 valores ágeis:
   1. Indivíduos e Interações Mais que Processos e Ferramentas;
   2. Software em Funcionamento mais que Documentação Abrangente;
@@ -23,3 +24,49 @@ Ele é composto por:
   11. As melhores arquiteturas, requisitos e designs emergem de times auto organizáveis;
   12. Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo.
   
+# Framework Scrum
+
+- Framework para gerenciamento de projetos ágeis focado nas pessoas;
+- Poderá tratar e resolver problemas em níveis de complexidade alta e adaptativos;
+- Um ponto fundamental do conceito ágil é centralizar o cliente no processo, ou seja, gerar valor ao cliente é fundamental para o sucesso de cada entrega e assim de todo backlog
+
+  ![alt text](image.png)
+
+
+
+## Pilares
+**Tranparência**:
+Escrever algo aqui
+
+**Inspeção**:
+
+**Adaptação**:
+
+## Papéis
+**Product Owner(P.O)**: Responsável pelo produto. Ligação entre o cliente e o time de desenvolvimento.
+
+**Scrum Master**: Especialista em Scrum. Garante a metodologia ágil seja aplicadas em toda a empresa.
+
+**Time de Desenvolvimento**: Formado de 3 a 9 integrantes. Responsável pelas entregas dos itens do produto.
+
+## Eventos
+
+**Sprint**: 
+
+**Planejamento da Sprint**:
+
+**Daily Scrum**:
+
+**Revisão da Sprint**:
+
+**Retrospectiva da Sprint**:
+
+## Artefatos
+
+**Backlog do produto**:
+
+**Backlog da Sprint**:
+
+**Gráfico de Burndown**:
+
+**Taskboard**:
