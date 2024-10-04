@@ -1,4 +1,4 @@
-# Dia 23.09 – Fundamentos de segurança da informação
+# Fundamentos de segurança da informação
 
 ## O que é segurança da informação?
 
@@ -168,14 +168,7 @@ Além das correções e proteções contra novas vulnerabilidades identificadas 
 - Tentativas não autorizadas de acesso;
 - Compartilhamento de credenciais.
 
-#### Como relatar um incidente?
 
-Caso você identifique um incidente de segurança relate imediatamente, seja de forma identificada ou anônima ao time de InfoSec.
-
-- Links para reporte:
-  
-  - <a href ="https://compasso.atlassian.net/servicedesk/customer/portal/100">Reporte identificado</a>
-  - <a href ="https://forms.office.com/r/aPFSTtMQy4">Reporte anônimo</a>
 
 ### Redes Wi-Fi
 
