@@ -12,11 +12,11 @@ Esse repositório tem o objetivo de armazenar todos os resumos da trilha de apre
   Nesse tópico aprendemos sobre metodologias ágeis, o que é git e github bem como seus comandos mais básicos, como fazer commits bem estruturados, Markdown e um overview sobre segurança da informação.
   
   Resumos do tópico:
-  - <a href="Como fazer Metodologias Ágeis – Scrum e Kanban na Prática.md">Como fazer Metodologias Ágeis – Scrum e Kanban na Prática</a>
-  - Aprenda Git e GitHub em 3 dias + Projetos reais
+  - [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática.md](https://github.com/rakeltorres/estagio-compass_uol/blob/ac1bf60199076cb29bb2c6d8f37bad31c19098fc/Basics%20for%20Teamwork%20and%20Agile%20Development/Como%20fazer%20Metodologias%20%C3%81geis%20%E2%80%93%20Scrum%20e%20Kanban%20na%20Pr%C3%A1tica.md)
+  - [Aprenda Git e GitHub em 3 dias + Projetos reais](https://github.com/rakeltorres/estagio-compass_uol/blob/ac1bf60199076cb29bb2c6d8f37bad31c19098fc/Basics%20for%20Teamwork%20and%20Agile%20Development/git-github.md)
   - Conventional Commits
   - Tudo que você precisa saber sobre Markdown
-  - Fundamentos da Segurança da Informação
+  - [Fundamentos da Segurança da Informação](https://github.com/rakeltorres/estagio-compass_uol/blob/ac1bf60199076cb29bb2c6d8f37bad31c19098fc/Basics%20for%20Teamwork%20and%20Agile%20Development/SIresumo.md)
   
 </details>
 
@@ -24,7 +24,7 @@ Esse repositório tem o objetivo de armazenar todos os resumos da trilha de apre
   <summary>2. Blockchain: Safe Shallows</summary>
   
   - Blockchain explicada em 5 níveis de dificuldade
-  - Bitcoin e Blockchain - Conceitos Fundamentais
+  - [Bitcoin e Blockchain - Conceitos Fundamentais](https://github.com/rakeltorres/estagio-compass_uol/blob/ac1bf60199076cb29bb2c6d8f37bad31c19098fc/Blockchain%3A%20Safe%20Shallows/Bitcoin%20e%20Blockchain%20-%20Conceitos%20Fundamentais.md)
   - Blockchain Demo
   - Blockchain na prática
   - Quando utilizar Blockchain?
